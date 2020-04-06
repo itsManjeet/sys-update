@@ -1,0 +1,35 @@
+to updates check krne ke liye hum phele ye dekhe ge ki humare system (releax os )ka major or minor version kya h
+
+fir request se jo data aaye ga isse compare kre ge 
+
+isse hme pta chal jaye ga ki system ko updates ki jarurat h ya nhi
+
+test_app.py ko run kr 
+python test_app.py
+
+python test_app.py check
+
+ye run kr
+
+abh hmne kya kiya h ki use argument pass kiya h
+ check
+
+jese sys-app me args pass kr rhe the
+
+sys-app info
+
+isme info argument h
+
+ishi type se test_app.py check me
+check argument h
+
+ab ek 
+python test_app.py check -hello ----> it will print true in last
+
+python ke liye 
+test_app.py argument h
+
+to python ke aage jo kuch bhi likhe ga vo uske argument hogi
+
+mtlab - ke sath jo bhi chiz likhe ge vo flag hoga
+
